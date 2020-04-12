@@ -75,10 +75,8 @@ section {
   }
 }
 #app4 .circle {
-  margin-left: 10vw;
-  margin-top: 10vw;
-  width: 20vw;
-  height: 20vw;
+  width: 10vw;
+  height: 10vw;
   border-radius: 50%;
   border: 1px solid gray;
 }
