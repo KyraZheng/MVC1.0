@@ -1,0 +1,17 @@
+#app2 .tab-bar {
+  display: flex;
+}
+#app2 .tab-bar > li {
+  border: 1px solid #ddd;
+  width: 50%;
+}
+#app2 .tab-bar > li.selected {
+  background: burlywood;
+  color: chocolate;
+}
+#app2 .tab-content > li {
+  display: none;
+}
+#app2 .tab-content > li.active {
+  display: block;
+}
